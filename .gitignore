@@ -1,0 +1,8 @@
+out/
+bin/
+chromium/
+node_modules/
+resources/img/
+resources/pdf/
+
+*.exe

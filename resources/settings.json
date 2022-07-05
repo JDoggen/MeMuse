@@ -1,0 +1,10 @@
+{
+    "chromium": {
+        "headless": true,
+        "slowMo": 20,
+        "defaultViewport": {
+            "width": 1920,
+            "height": 1080
+        }
+    }
+}
